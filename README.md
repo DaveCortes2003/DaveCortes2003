@@ -76,7 +76,8 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DaveCortes2003&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DaveCortes2003&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
